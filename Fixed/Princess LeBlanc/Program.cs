@@ -15,6 +15,7 @@ namespace Princess_LeBlanc
         }
         public static void Load(EventArgs args)
         {
+            Console.Write(ObjectManager.Player.ChampionName);
             if (ObjectManager.Player.ChampionName != "Leblanc")
             {
                 return;
