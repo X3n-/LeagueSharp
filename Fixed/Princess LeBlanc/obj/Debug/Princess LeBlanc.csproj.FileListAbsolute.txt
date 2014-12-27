@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\LeagueSharp\Fixed\Princess LeBlanc\bin\Release\Princess LeBlanc.exe.config
+C:\Users\User\Documents\GitHub\LeagueSharp\Fixed\Princess LeBlanc\bin\Release\Princess LeBlanc.exe
+C:\Users\User\Documents\GitHub\LeagueSharp\Fixed\Princess LeBlanc\bin\Release\Princess LeBlanc.pdb
+C:\Users\User\Documents\GitHub\LeagueSharp\Fixed\Princess LeBlanc\bin\Release\LeagueSharp.Common.dll
+C:\Users\User\Documents\GitHub\LeagueSharp\Fixed\Princess LeBlanc\bin\Release\LeagueSharp.dll
+C:\Users\User\Documents\GitHub\LeagueSharp\Fixed\Princess LeBlanc\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\User\Documents\GitHub\LeagueSharp\Fixed\Princess LeBlanc\bin\Release\SharpDX.dll
+C:\Users\User\Documents\GitHub\LeagueSharp\Fixed\Princess LeBlanc\bin\Release\SharpDX.Toolkit.dll
+C:\Users\User\Documents\GitHub\LeagueSharp\Fixed\Princess LeBlanc\bin\Release\SharpDX.Toolkit.Graphics.dll
+C:\Users\User\Documents\GitHub\LeagueSharp\Fixed\Princess LeBlanc\bin\Release\LeagueSharp.xml
+C:\Users\User\Documents\GitHub\LeagueSharp\Fixed\Princess LeBlanc\bin\Release\SharpDX.Toolkit.xml
+C:\Users\User\Documents\GitHub\LeagueSharp\Fixed\Princess LeBlanc\bin\Release\SharpDX.Toolkit.Graphics.xml
+C:\Users\User\Documents\GitHub\LeagueSharp\Fixed\Princess LeBlanc\obj\Debug\Princess LeBlanc.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\LeagueSharp\Fixed\Princess LeBlanc\obj\Debug\Princess LeBlanc.exe
+C:\Users\User\Documents\GitHub\LeagueSharp\Fixed\Princess LeBlanc\obj\Debug\Princess LeBlanc.pdb
