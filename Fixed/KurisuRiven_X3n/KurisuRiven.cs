@@ -510,8 +510,6 @@ namespace KurisuRiven_Xen
             if (!sender.IsMe)
                 return;
 
-            string SpellName = args.SData.Name;
-            Game.PrintChat("LastSpellName : " + SpellName);
             var target = enemy;
 
             switch (args.SData.Name)
